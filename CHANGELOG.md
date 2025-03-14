@@ -2,6 +2,13 @@
 
 All notable changes to `twill` will be documented in this file.
 
+## 3.5.1
+
+### Fixed
+
+- Fix file library uploader regression by [@joyceverheije](https://github.com/joyceverheije) in https://github.com/area17/twill/pull/2740
+- Fix `timeOnly` variant of the `Datepicker` field by [@MamlukiSn](https://github.com/MamlukiSn) in https://github.com/area17/twill/pull/2739 
+
 ## 3.5.0
 
 ### Added
@@ -95,6 +102,12 @@ All notable changes to `twill` will be documented in this file.
 - Bump webpack from 5.91.0 to 5.95.0 by [@dependabot](https://github.com/dependabot) in https://github.com/area17/twill/pull/2665
 - Bump body-parser and express by [@dependabot](https://github.com/dependabot) in https://github.com/area17/twill/pull/2659
 - Bump cookie and express by [@dependabot](https://github.com/dependabot) in https://github.com/area17/twill/pull/2664
+
+## 3.3.2
+ 
+### Fixed
+ 
+- Backport fix from 3.5.1: `timeOnly` variant of the `Datepicker` field by [@MamlukiSn](https://github.com/MamlukiSn) in https://github.com/area17/twill/pull/2739
 
 ## 3.3.1
 
