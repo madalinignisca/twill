@@ -9,6 +9,10 @@ All notable changes to `twill` will be documented in this file.
 - Fix file library uploader regression by [@joyceverheije](https://github.com/joyceverheije) in https://github.com/area17/twill/pull/2740
 - Fix `timeOnly` variant of the `Datepicker` field by [@MamlukiSn](https://github.com/MamlukiSn) in https://github.com/area17/twill/pull/2739 
 
+### Improved
+
+- Add a warning during the `twill:update` and `twill:build` commands for developers that have `twill.load_default_migrations` set to false by [@ifox](https://github.com/ifox) in [de274175](https://github.com/area17/twill/commit/de274175)
+
 ## 3.5.0
 
 ### Added
