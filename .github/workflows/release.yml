@@ -63,7 +63,6 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update assets and bump version to ${NEW_VERSION}"
           title: "Update assets and bump version to ${NEW_VERSION}"
           body: |
             This PR updates the build and bumps the version number to ${{ steps.bump_version.outputs.new_version }}.
