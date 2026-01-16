@@ -27,6 +27,7 @@ All notable changes to `twill` will be documented in this file.
 
 ### Chores
 
+- Add PHP 8.4 and 8.5 support to CI test matrix by [@ifox](https://github.com/ifox) in [#2790](https://github.com/area17/twill/pull/2790) and [e5f0cd](https://github.com/area17/twill/commit/e5f0cd)
 - Update npm dependencies by [@ifox](https://github.com/ifox) in [d58c16a](https://github.com/area17/twill/commit/d58c16a) and [81a57b3](https://github.com/area17/twill/commit/81a57b3)
 - Bump http-proxy-middleware from 2.0.7 to 2.0.9 by [@dependabot](https://github.com/dependabot) in [#2764](https://github.com/area17/twill/pull/2764)
 - Bump on-headers and compression by [@dependabot](https://github.com/dependabot) in [#2772](https://github.com/area17/twill/pull/2772)
