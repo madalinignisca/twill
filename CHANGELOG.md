@@ -6,7 +6,7 @@ All notable changes to `twill` will be documented in this file.
 
 ### Added
 
-- Add Laravel 12 support by [@Tofandel](https://github.com/Tofandel) in [#2765](https://github.com/area17/twill/pull/2765)
+- Add Laravel 12 support by [@Tofandel](https://github.com/Tofandel) and [@Braunson](https://github.com/Braunson) in [#2765](https://github.com/area17/twill/pull/2765)
 - Add support for repeaters crops configuration by [@zeezo887](https://github.com/zeezo887) in [#2760](https://github.com/area17/twill/pull/2760)
 
 ### Fixed
@@ -27,15 +27,17 @@ All notable changes to `twill` will be documented in this file.
 
 ### Chores
 
+- Update npm dependencies by [@ifox](https://github.com/ifox) in [d58c16a](https://github.com/area17/twill/commit/d58c16a) and [81a57b3](https://github.com/area17/twill/commit/81a57b3)
 - Bump http-proxy-middleware from 2.0.7 to 2.0.9 by [@dependabot](https://github.com/dependabot) in [#2764](https://github.com/area17/twill/pull/2764)
 - Bump on-headers and compression by [@dependabot](https://github.com/dependabot) in [#2772](https://github.com/area17/twill/pull/2772)
+- Bump nanoid from 3.3.7 to 3.3.8 by [@dependabot](https://github.com/dependabot) in [#2711](https://github.com/area17/twill/pull/2711)
+- Bump axios from 0.28.1 to 0.30.2 by [@dependabot](https://github.com/dependabot) in [#2779](https://github.com/area17/twill/pull/2779)
 
 ## 3.5.2
 
 ### Fixed
 
 - Fix cropper regression (likely a from a recent browser update) by [@13twelve](https://github.com/13twelve) in [#2744](https://github.com/area17/twill/pull/2744)
-
 
 ## 3.5.1
 
